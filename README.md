@@ -15,10 +15,10 @@
   <br />
 
   <a href="https://github.com/aidanandrews22/github-readme-stats">
-    <img height="300" src="https://github-readme-stats.vercel.app/api?username=aidanandrews22&rank_icon=github&show=prs_merged,prs_merged_percentage" />
+    <img height="250" src="https://github-readme-stats.vercel.app/api?username=aidanandrews22&rank_icon=github&show=prs_merged,prs_merged_percentage" />
   </a>
   <a href="https://github.com/aidanandrews22/convoychat">
-    <img height="300" src="https://api.githubtrends.io/user/svg/aidanandrews22/langs?time_range=six_months&include_private=True&loc_metric=changed&theme=classic" />
+    <img height="250" src="https://api.githubtrends.io/user/svg/aidanandrews22/langs?time_range=six_months&include_private=True&loc_metric=changed&theme=classic" />
   </a>
 </div>
 
