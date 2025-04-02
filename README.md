@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://x.com/aidansandrews" target="_blank">
-    <img src="https://aidanandrews22.github.io/content/images/xlogo.png" alt="Twitter" width="100" style="border-radius: 8px;" />
+    <img src="https://aidanandrews22.github.io/content/images/xlogo.png" alt="Twitter" width="200" style="border-radius: 8px;" />
   </a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=aidanandrews22&abbreviated=true" alt="Profile Views" />
